@@ -14,4 +14,10 @@ To understand the key factors influencing mental health issues among employees i
 - **Classification Task**: Predict whether an individual is likely to seek mental health treatment.
 - **Regression Task**: Predict the age of an individual based on personal and workplace attributes, supporting age-targeted intervention design.
 - **Unsupervised Task**: Segment tech employees into distinct clusters based on mental health indicators to aid in tailored HR policies
+## 🔗 Important Links
+- EDA Notebook: https://github.com/hk644578/OL-25-LP-045/blob/main/models/EDA%20.ipynb
+- Classification Notebook: https://github.com/hk644578/OL-25-LP-045/blob/main/models/Classification_model.ipynb
+- Regression Notebook: https://github.com/hk644578/OL-25-LP-045/blob/main/models/Regression_model.ipynb
+- Clustering Notebook: https://github.com/hk644578/OL-25-LP-045/blob/main/models/Clustering.ipynb
+- Streamlit App: https://capstone-project-harsh.streamlit.app/
 
