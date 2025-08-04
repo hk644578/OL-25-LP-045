@@ -20,4 +20,8 @@ To understand the key factors influencing mental health issues among employees i
 - Regression Notebook: https://github.com/hk644578/OL-25-LP-045/blob/main/models/Regression_model.ipynb
 - Clustering Notebook: https://github.com/hk644578/OL-25-LP-045/blob/main/models/Clustering.ipynb
 - Streamlit App: https://capstone-project-harsh.streamlit.app/
+## Demo
+Watch the project in action:
+Streamlit App Demo: [Click Here to View Demo](https://capstone-project-harsh.streamlit.app/)
+
 
